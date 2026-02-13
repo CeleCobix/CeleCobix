@@ -24,9 +24,6 @@ If you'd like to collaborate on a project or just talk about technology:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
   </a>
   
-  <a href="https://www.instagram.com/cele.cobix" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="45" height="45" style="background: radial-gradient(circle at 30% 107%, #ffffff 0%, #ffffff 5%, #ffffff 45%, #ffffff 60%, #ffffff 90%); border-radius: 10px; padding: 5px;"/>
-  </a>
 </p>
 
 
