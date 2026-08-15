@@ -1,15 +1,14 @@
 # Hi there! 👋 I'm Celeste
 
 🎓 Computer Science Engineering Student  
-📱 Specialized in Mobile Application Development  
 💡 Passionate about technology and continuous learning  
 
 I love being self-taught and constantly improving my skills by exploring new tools and technologies.
 
 ### Currently
 
-- Learning Flutter  
-- Building a personal To-Do App project
+- Learning Data Science
+- I am working on the project: what factors influence the price of an Airbnb?
 
 ### Connect with me
 
@@ -43,7 +42,6 @@ If you'd like to collaborate on a project or just talk about technology:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
   
   <!-- Mobile & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="45" height="45"/>
   
